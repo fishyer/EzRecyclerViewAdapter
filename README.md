@@ -1,7 +1,5 @@
 # RecycleView.Adapter的封装思路
 
-[TOC]
-
 最终成品库已上传到Jcenter:
 ```
 compile 'com.yutianran.maven:super-adapter:1.0.0'
@@ -174,8 +172,6 @@ R.layout.item_simple对应SimpleBean，
 额，不小心扯远了。先别说了，把工具类奉上：
 
 所有代码均已上传到：[Github](https://github.com/fishyer/StudyRecyclerView),欢迎Star!
-
-**菜鸟一枚，水平有限，欢迎大家指出博文中的不足之处，小鱼将不胜感激！@qq:630709658**
 
 
 
